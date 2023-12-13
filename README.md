@@ -1,6 +1,6 @@
 <h1>Wassup nigga hw u doin?</h1>
 
-<P>Let me introduce u myself. I hate my stupid arse fucker college i.e, BES University one of the most REGRETTING college in Blore for me n my frnd. I hate this college every day every night till the sun shines in the east and sets in the west. And also i love Conspiracy theories.</P>
+<P>Let me introduce u myself. I hate my stupid arse fucker college i.e, BES University one of the most REGRETTING college in Blore for me n. I hate this college every day and every night till the sun rises in the east and sets in the west. And also i love Conspiracy theories.</P>
 
 <h1 style="color:blue">Here are some projects that i did..</h2>
 
