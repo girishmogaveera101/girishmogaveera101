@@ -4,7 +4,7 @@
 
 <h1 style="color:blue">Here are some projects that i did..</h2>
 
-<p>some of these projects are completed and some these projects won't work</p>
+<p>some of these projects are completed and some of these projects won't work</p>
 <ul>
   <a href=""><li>Booking bus Tickets website</li></a>
 </ul>
